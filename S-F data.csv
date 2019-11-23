@@ -1,0 +1,572 @@
+﻿Rnaking by S-F,Insitution Name ,S-F ratio,Grad rate ,retention rate,Accept rate,Enrollement rate ,Aid Rateq,Defualt Rate 
+1,Baptist Missionary Association Theological Seminary,3 to 1,0.5,N/A,0.7,0.7,0.9,N/A
+2,International Baptist College and Seminary,4 to 1,0.6,0.79,N/A,N/A,0.91,0.02
+3,Shasta Bible College and Graduate School,5 to 1,0.58,1,0.73,0.55,0.85,N/A
+4,Maine College of Health Professions,5 to 1,1,1,0.25,0.25,0.59,N/A
+5,Midwives College of Utah,5 to 1,N/A,1,1,1,0.3,N/A
+6,Virginia Baptist College,5 to 1,1,0.25,N/A,N/A,0.38,N/A
+7,Holy Apostles College and Seminary,6 to 1,0.6,1,N/A,N/A,0.22,N/A
+8,Yale University,6 to 1,0.97,0.99,0.07,0.05,0.52,N/A
+9,Saint Mary-of-the-Woods College,6 to 1,0.5,0.74,0.59,0.26,0.83,N/A
+10,Southeastern Baptist College,6 to 1,0.8,0.4,N/A,N/A,0.21,N/A
+11,University of Pennsylvania,6 to 1,0.95,0.98,0.1,0.07,0.54,N/A
+12,Grace College of Divinity,6 to 1,N/A,0.83,0.53,0.5,0.24,N/A
+13,American Medical Academy,6 to 1,0.75,0.83,N/A,N/A,0.18,N/A
+14,California Institute of the Arts,7 to 1,0.56,0.87,0.25,0.09,0.55,0.08
+15,Catholic University of America,7 to 1,0.69,0.86,0.79,0.15,0.83,0.02
+16,MidAmerica Nazarene University,7 to 1,0.55,0.74,0.61,0.21,0.85,0.07
+17,Harvard University,7 to 1,0.98,0.98,0.06,0.04,0.44,N/A
+18,Simmons College,7 to 1,0.74,0.85,0.58,0.1,0.91,N/A
+19,Yeshiva University,7 to 1,0.88,0.94,0.8,0.5,0.82,N/A
+20,Piedmont International University,7 to 1,0.41,0.74,0.24,0.19,0.68,N/A
+21,Averett University-Non-Traditional Programs,7 to 1,1,N/A,0.55,0.17,0.34,0.11
+22,Emory University,8 to 1,0.89,0.94,0.24,0.07,0.54,N/A
+23,University of Saint Mary,8 to 1,0.41,0.75,0.49,0.14,0.63,N/A
+24,Washington University in St Louis,8 to 1,0.93,0.96,0.17,0.06,0.49,N/A
+25,Skidmore College,8 to 1,0.86,0.94,0.36,0.08,0.48,N/A
+26,Saint Elizabeth College of Nursing,8 to 1,0.5,1,0.5,0.39,0.67,0.04
+27,University of Richmond,8 to 1,0.88,0.93,0.31,0.08,0.69,N/A
+28,Simpson University,9 to 1,0.49,0.74,0.52,0.14,0.94,0.06
+29,Nazarene Bible College,9 to 1,0.4,1,N/A,N/A,0.49,0.13
+30,Agnes Scott College,9 to 1,0.68,0.87,0.62,0.19,0.95,0.07
+31,Buena Vista University,9 to 1,0.51,0.78,0.68,0.16,0.85,0.07
+32,Clarke University,9 to 1,0.57,0.76,0.72,0.14,0.91,0.06
+33,Emmaus Bible College,9 to 1,0.75,0.83,0.35,0.14,0.95,N/A
+34,Tulane University of Louisiana,9 to 1,0.83,0.92,0.3,0.07,0.7,N/A
+35,Massachusetts College of Art and Design,9 to 1,0.72,0.92,0.71,0.23,0.55,0.07
+36,Tufts University,9 to 1,0.93,0.97,0.16,0.07,0.43,N/A
+37,Andrews University,9 to 1,0.54,0.8,0.39,0.12,0.84,0.07
+38,Cox College,9 to 1,0.99,1,0.59,0.22,0.6,N/A
+39,Bryan College of Health Sciences,9 to 1,0.79,0.86,0.86,0.67,0.56,0.03
+40,Albany College of Pharmacy and Health Sciences,9 to 1,0.69,0.88,0.66,0.13,0.86,0.01
+41,Cornell University,9 to 1,0.93,0.97,0.15,0.08,0.55,N/A
+42,Nazareth College,9 to 1,0.73,0.84,0.76,0.14,0.97,0.04
+43,Pamlico Community College,9 to 1,0.72,0.76,N/A,N/A,0.39,N/A
+44,Queens University of Charlotte,9 to 1,0.53,0.74,0.67,0.13,0.86,0.07
+45,Cleveland Institute of Art,9 to 1,0.68,0.83,0.65,0.23,0.97,0.05
+46,Immaculata University,9 to 1,0.7,0.83,0.79,0.12,0.59,0.06
+47,University of St Thomas,9 to 1,0.58,0.83,0.78,0.28,0.78,N/A
+48,Westminster College,9 to 1,0.62,0.82,0.96,0.23,0.89,N/A
+49,Laurus College,9 to 1,0.88,0.7,N/A,N/A,0.74,0.2
+50,Milligan College,9 to 1,0.63,0.78,0.65,0.31,0.87,0.05
+51,Bethesda University,10 to 1,0.77,0.68,N/A,N/A,0.58,0.02
+52,The Master's College and Seminary,10 to 1,0.69,0.85,0.95,0.41,0.82,N/A
+53,Goshen College,10 to 1,0.66,0.78,0.66,0.22,0.9,0.04
+54,Huntington University,10 to 1,0.66,0.79,0.84,0.22,0.85,0.04
+55,University of Notre Dame,10 to 1,0.97,0.98,0.2,0.11,0.63,N/A
+56,Saint Mary's College,10 to 1,0.79,0.9,0.8,0.24,0.94,N/A
+57,North Central Kansas Technical College,10 to 1,0.79,0.78,N/A,N/A,0.57,0.14
+58,Georgetown College,10 to 1,0.57,0.72,0.68,0.13,0.9,0.05
+59,Johns Hopkins University,10 to 1,0.94,0.97,0.14,0.05,0.51,N/A
+60,Brandeis University,10 to 1,0.86,0.92,0.34,0.08,0.58,N/A
+61,Lesley University,10 to 1,0.54,0.8,0.67,0.12,0.75,0.04
+62,Mount Holyoke College,10 to 1,0.85,0.9,0.5,0.14,0.8,N/A
+63,University of Detroit Mercy,10 to 1,0.63,0.85,0.73,0.12,0.9,0.06
+64,Madonna University,10 to 1,0.61,0.82,0.6,0.19,0.62,N/A
+65,St Catherine University,10 to 1,0.57,0.86,0.67,0.14,0.89,N/A
+66,Avila University,10 to 1,0.55,0.74,0.51,0.1,0.78,0.09
+67,Stephens College,10 to 1,0.55,0.72,0.68,0.16,1,0.09
+68,William Jewell College,10 to 1,0.62,0.82,0.49,0.17,0.94,N/A
+69,College of Saint Elizabeth,10 to 1,0.49,0.71,0.63,0.13,0.66,0.08
+70,Stevens Institute of Technology,10 to 1,0.82,0.94,0.44,0.1,0.92,N/A
+71,The New School,10 to 1,0.65,0.81,0.67,0.19,0.83,0.06
+72,New York University,10 to 1,0.84,0.93,0.32,0.1,0.57,N/A
+73,New York School of Interior Design,10 to 1,0.5,0.8,0.42,0.08,0.29,N/A
+74,University of Rochester,10 to 1,0.88,0.96,0.34,0.08,0.78,N/A
+75,Wake Forest University,10 to 1,0.88,0.93,0.29,0.1,0.5,N/A
+76,The Christ College of Nursing and Health Sciences,10 to 1,0.69,0.83,0.54,0.29,0.68,N/A
+77,Otterbein University,10 to 1,0.61,0.81,0.75,0.2,0.81,0.06
+78,Arcadia University,10 to 1,0.58,0.79,0.59,0.06,0.94,0.06
+79,Carnegie Mellon University,10 to 1,0.88,0.98,0.24,0.08,0.54,N/A
+80,Cedar Crest College,10 to 1,0.58,0.79,0.67,0.16,0.75,0.08
+81,Chatham University,10 to 1,0.56,0.76,0.55,0.14,0.64,0.03
+82,Drexel University,10 to 1,0.68,0.84,0.75,0.09,0.8,N/A
+83,Eastern University,10 to 1,0.61,0.74,0.52,0.13,0.88,0.08
+84,Lehigh University,10 to 1,0.88,0.95,0.3,0.1,0.51,N/A
+85,University of the Sciences,10 to 1,0.72,0.9,0.58,0.09,0.84,N/A
+86,University of Scranton,10 to 1,0.8,0.88,0.72,0.09,0.88,N/A
+87,Wilson College,10 to 1,0.39,0.73,0.45,0.1,0.71,N/A
+88,Augustana University,10 to 1,0.75,0.84,0.65,0.25,0.97,0.03
+89,Union University,10 to 1,0.64,0.84,0.69,0.19,0.74,N/A
+90,Eastern Mennonite University,10 to 1,0.61,0.73,0.62,0.15,0.95,0.03
+91,Shenandoah University,10 to 1,0.55,0.77,0.82,0.22,0.59,0.07
+92,Edgewood College,10 to 1,0.6,0.81,0.77,0.26,0.85,0.04
+93,Columbia College,10 to 1,0.62,0.81,N/A,N/A,0.63,N/A
+94,Azusa Pacific University,11 to 1,0.68,0.88,0.81,0.2,0.92,0.04
+95,Loyola Marymount University,11 to 1,0.79,0.91,0.51,0.1,0.78,N/A
+96,University of Denver,11 to 1,0.77,0.86,0.73,0.09,0.8,N/A
+97,Georgetown University,11 to 1,0.94,0.96,0.17,0.08,0.42,N/A
+98,Howard University,11 to 1,0.61,0.89,0.49,0.11,0.78,0.1
+99,The Baptist College of Florida,11 to 1,0.51,0.76,0.52,0.29,0.97,N/A
+100,Brenau University,11 to 1,0.48,0.59,0.66,0.09,0.78,0.07
+101,Chaminade University of Honolulu,11 to 1,0.47,0.74,0.82,0.28,0.81,0.09
+102,Illinois Wesleyan University,11 to 1,0.83,0.93,0.62,0.12,0.99,0.03
+103,North Park University,11 to 1,0.52,0.75,0.49,0.09,0.89,0.08
+104,Dominican University,11 to 1,0.59,0.79,0.63,0.12,0.9,0.06
+105,University of St Francis,11 to 1,0.65,0.76,0.51,0.13,0.86,N/A
+106,Anderson University,11 to 1,0.54,0.75,0.6,0.16,0.89,0.05
+107,Cornell College,11 to 1,0.68,0.82,0.7,0.14,0.98,0.04
+108,Faith Baptist Bible College and Theological Seminary,11 to 1,0.66,0.8,0.64,0.5,0.9,0.03
+109,Maharishi University of Management,11 to 1,0.46,0.9,0.37,0.25,0.68,N/A
+110,Wartburg College,11 to 1,0.7,0.8,0.74,0.17,0.94,N/A
+111,Friends University,11 to 1,0.41,0.74,0.58,0.22,0.87,0.1
+112,Asbury University,11 to 1,0.63,0.81,0.57,0.19,0.77,0.06
+113,Goucher College,11 to 1,0.69,0.82,0.77,0.11,0.9,0.03
+114,Loyola University Maryland,11 to 1,0.81,0.86,0.61,0.07,0.7,N/A
+115,McDaniel College,11 to 1,0.7,0.75,0.8,0.15,0.98,0.04
+116,Berklee College of Music,11 to 1,0.56,0.87,0.29,0.12,0.53,0.12
+117,Cleary University,11 to 1,0.52,0.65,0.72,0.46,1,0.07
+118,Hope College,11 to 1,0.76,0.88,0.72,0.18,0.87,0.03
+119,Spring Arbor University,11 to 1,0.52,0.79,0.69,0.19,0.88,N/A
+120,Concordia College at Moorhead,11 to 1,0.73,0.82,0.78,0.23,0.96,0.02
+121,Minneapolis College of Art and Design,11 to 1,0.6,0.82,0.66,0.26,0.94,0.09
+122,Belhaven University,11 to 1,0.47,0.67,0.51,0.09,0.93,0.06
+123,Fontbonne University,11 to 1,0.54,0.79,0.97,0.36,0.76,0.1
+124,Saint Louis University,11 to 1,0.71,0.9,0.63,0.12,0.54,N/A
+125,William Woods University,11 to 1,0.52,0.75,0.73,0.21,0.9,N/A
+126,Creighton University,11 to 1,0.79,0.9,0.7,0.11,0.91,N/A
+127,Adelphi University,11 to 1,0.67,0.84,0.72,0.09,0.88,0.05
+128,Canisius College,11 to 1,0.7,0.83,0.87,0.14,0.92,0.06
+129,CUNY Hunter College,11 to 1,0.54,0.83,0.39,0.08,0.56,0.05
+130,Ithaca College,11 to 1,0.76,0.86,0.67,0.11,0.88,0.03
+131,St Bonaventure University,11 to 1,0.64,0.86,0.66,0.13,0.99,0.07
+132,St Lawrence University,11 to 1,0.87,0.89,0.46,0.12,0.93,N/A
+133,Saint Joseph's College-New York,11 to 1,0.68,0.86,0.68,0.16,0.82,N/A
+134,Utica College,11 to 1,0.42,0.7,0.83,0.13,0.76,0.08
+135,Salem College,11 to 1,0.6,0.83,0.62,0.21,0.95,0.07
+136,Valley City State University,11 to 1,0.41,0.71,0.86,0.52,0.56,N/A
+137,Ohio Northern University,11 to 1,0.69,0.86,0.69,0.19,0.75,0.03
+138,Xavier University,11 to 1,0.74,0.83,0.72,0.11,0.92,N/A
+139,Linfield College-McMinnville Campus,11 to 1,0.63,0.86,0.84,0.2,0.96,0.03
+140,Pacific University,11 to 1,0.71,0.77,0.79,0.16,0.93,0.03
+141,Summit University of Pennsylvania,11 to 1,0.59,0.74,0.61,0.32,0.74,N/A
+142,Carlow University,11 to 1,0.5,0.77,0.81,0.24,0.87,0.05
+143,Lebanon Valley College,11 to 1,0.74,0.85,0.72,0.14,0.94,0.03
+144,Muhlenberg College,11 to 1,0.85,0.93,0.48,0.12,0.82,N/A
+145,Presbyterian College,11 to 1,0.7,0.81,0.62,0.13,0.89,0.04
+146,Saint Michael's College,11 to 1,0.76,0.87,0.76,0.1,0.98,N/A
+147,Pacific Lutheran University,11 to 1,0.68,0.83,0.76,0.18,0.96,0.03
+148,Whitworth University,11 to 1,0.75,0.95,0.62,0.13,0.94,N/A
+149,Wheeling Jesuit University,11 to 1,0.54,0.72,0.61,0.15,0.79,N/A
+150,Viterbo University,11 to 1,0.51,0.78,0.66,0.2,0.85,N/A
+151,Pennsylvania College of Health Sciences,11 to 1,0.68,1,0.53,0.37,0.42,N/A
+152,Samford University,12 to 1,0.74,0.89,0.93,0.26,0.88,N/A
+153,Laguna College of Art and Design,12 to 1,0.66,0.84,0.37,0.21,1,0.06
+154,Whittier College,12 to 1,0.66,0.8,0.63,0.09,0.94,N/A
+155,Fairfield University,12 to 1,0.82,0.89,0.65,0.09,0.75,0.01
+156,Quinnipiac University,12 to 1,0.76,0.87,0.74,0.08,0.83,N/A
+157,American University,12 to 1,0.81,0.88,0.35,0.11,0.63,0.04
+158,Hobe Sound Bible College,12 to 1,0.56,0.75,N/A,N/A,0.55,0.11
+159,Keiser University-Ft Lauderdale,12 to 1,0.68,0.89,N/A,N/A,0.93,0.18
+160,University of Miami,12 to 1,0.82,0.92,0.38,0.06,0.7,N/A
+161,Berry College,12 to 1,0.64,0.83,0.55,0.13,0.99,0.04
+162,Augustana College,12 to 1,0.76,0.86,0.49,0.1,0.97,0.05
+163,Bradley University,12 to 1,0.74,0.86,0.66,0.1,0.94,0.03
+164,Bethel College-Indiana,12 to 1,0.64,0.78,0.66,0.14,0.84,0.09
+165,University of Evansville,12 to 1,0.68,0.81,0.7,0.12,0.91,0.05
+166,Oakland City University,12 to 1,0.63,0.71,0.55,0.1,0.24,0.1
+167,Taylor University,12 to 1,0.77,0.87,0.85,0.3,0.84,N/A
+168,Central College,12 to 1,0.67,0.78,0.64,0.1,0.94,0.04
+169,Luther College,12 to 1,0.77,0.85,0.67,0.16,0.97,0.03
+170,Northwest Iowa Community College,12 to 1,0.56,0.75,N/A,N/A,0.3,0.11
+171,Baker University,12 to 1,0.6,0.77,0.82,0.21,0.73,0.06
+172,Clear Creek Baptist Bible College,12 to 1,0.46,0.8,N/A,N/A,0.9,N/A
+173,Loyola University New Orleans,12 to 1,0.66,0.77,0.9,0.19,0.92,0.05
+174,Saint Joseph's College of Maine,12 to 1,0.58,0.86,0.78,0.2,0.56,N/A
+175,Capitol Technology University,12 to 1,0.35,0.87,0.97,0.23,0.71,0.07
+176,Mount St Mary's University,12 to 1,0.69,0.75,0.67,0.08,0.95,0.04
+177,Notre Dame of Maryland University,12 to 1,0.54,0.79,0.52,0.11,0.59,0.08
+178,Assumption College,12 to 1,0.73,0.83,0.76,0.12,0.92,0.04
+179,Bay Path University,12 to 1,0.57,0.8,0.77,0.16,0.76,0.09
+180,Boston University,12 to 1,0.85,0.93,0.33,0.07,0.49,N/A
+181,Lawrence Technological University,12 to 1,0.56,0.81,0.55,0.16,0.51,0.07
+182,University of Michigan-Ann Arbor,12 to 1,0.9,0.97,0.26,0.12,0.51,N/A
+183,Michigan Technological University,12 to 1,0.65,0.87,0.75,0.24,0.86,0.05
+184,Siena Heights University,12 to 1,0.37,0.72,0.77,0.17,0.71,0.06
+185,Augsburg College,12 to 1,0.56,0.79,0.59,0.16,0.82,0.05
+186,Bethel University,12 to 1,0.74,0.84,0.95,0.4,0.89,0.03
+187,Martin Luther College,12 to 1,0.73,0.83,0.78,0.66,0.94,N/A
+188,University of Minnesota-Morris,12 to 1,0.65,0.77,0.6,0.11,0.74,0.06
+189,Rockhurst University,12 to 1,0.71,0.85,0.74,0.12,0.68,0.06
+190,Grace University,12 to 1,0.46,0.93,0.59,0.32,0.86,0.05
+191,Nebraska Methodist College of Nursing & Allied Health,12 to 1,0.73,0.81,0.34,0.19,0.72,N/A
+192,Caldwell University,12 to 1,0.64,0.82,0.64,0.09,0.74,0.09
+193,Rider University,12 to 1,0.64,0.8,0.69,0.09,0.87,0.07
+194,New Mexico Institute of Mining and Technology,12 to 1,0.49,0.75,0.24,0.21,0.73,0.06
+195,Houghton College,12 to 1,0.73,0.84,0.95,0.35,0.97,0.04
+196,The Sage Colleges,12 to 1,0.6,0.78,0.54,0.11,0.9,N/A
+197,Saint John Fisher College,12 to 1,0.72,0.86,0.62,0.12,0.96,N/A
+198,Elon University,12 to 1,0.83,0.9,0.57,0.15,0.54,0.02
+199,Pfeiffer University,12 to 1,0.43,0.69,0.47,0.1,0.75,0.08
+200,Minot State University,12 to 1,0.43,0.75,0.57,0.41,0.59,N/A
+201,Malone University,12 to 1,0.57,0.7,0.69,0.21,0.86,0.05
+202,Northwest Christian University,12 to 1,0.53,0.69,0.68,0.23,0.91,N/A
+203,Alvernia University,12 to 1,0.51,0.76,0.74,0.24,0.87,0.08
+204,Elizabethtown College,12 to 1,0.78,0.82,0.71,0.15,0.99,0.03
+205,Gannon University,12 to 1,0.65,0.84,0.76,0.15,0.79,0.06
+206,La Salle University,12 to 1,0.63,0.78,0.75,0.13,0.85,0.04
+207,Marywood University,12 to 1,0.7,0.83,0.71,0.16,0.97,0.06
+208,Messiah College,12 to 1,0.77,0.88,0.79,0.28,0.97,N/A
+209,Misericordia University,12 to 1,0.72,0.85,0.71,0.22,0.83,N/A
+210,Moravian College,12 to 1,0.69,0.8,0.75,0.19,0.91,0.04
+211,Pittsburgh Institute of Mortuary Science Inc,12 to 1,0.61,0.85,0.63,0.63,0.23,N/A
+212,Saint Vincent College,12 to 1,0.69,0.87,0.7,0.23,0.96,0.04
+213,Susquehanna University,12 to 1,0.71,0.89,0.76,0.13,0.98,N/A
+214,Villanova University,12 to 1,0.9,0.96,0.48,0.1,0.5,N/A
+215,Widener University-Main Campus,12 to 1,0.57,0.78,0.68,0.16,0.81,N/A
+216,Providence College,12 to 1,0.85,0.9,0.57,0.1,0.71,N/A
+217,Bob Jones University,12 to 1,0.62,0.8,0.82,0.55,0.71,0.02
+218,Lipscomb University,12 to 1,0.55,0.84,0.61,0.2,0.73,0.05
+219,LeTourneau University,12 to 1,0.57,0.69,0.45,0.14,0.66,N/A
+220,Norwich University,12 to 1,0.56,0.74,0.57,0.18,0.93,N/A
+221,College of William and Mary,12 to 1,0.9,0.95,0.34,0.1,0.44,N/A
+222,Gonzaga University,12 to 1,0.83,0.95,0.73,0.2,0.96,N/A
+223,Concordia University-Wisconsin,12 to 1,0.58,0.76,0.67,0.21,0.75,0.06
+224,Wisconsin Lutheran College,12 to 1,0.62,0.75,0.92,0.38,0.89,N/A
+225,Purdue University-Main Campus,12 to 1,0.75,0.92,0.59,0.15,0.51,N/A
+226,Provo College,12 to 1,0.71,1,N/A,N/A,0.74,0.18
+227,George Washington University,13 to 1,0.83,0.94,0.46,0.13,0.64,N/A
+228,Florida Southern College,13 to 1,0.57,0.8,0.45,0.11,0.93,0.1
+229,Stetson University,13 to 1,0.64,0.77,0.63,0.09,0.98,0.05
+230,Mercer University,13 to 1,0.61,0.87,0.67,0.18,0.85,0.05
+231,Toccoa Falls College,13 to 1,0.47,0.66,0.45,0.2,0.93,N/A
+232,Greenville College,13 to 1,0.57,0.82,0.56,0.14,0.91,N/A
+233,Illinois Institute of Technology,13 to 1,0.73,0.87,0.53,0.11,0.89,N/A
+234,Lewis University,13 to 1,0.66,0.84,0.62,0.12,0.81,N/A
+235,Lincoln Christian University,13 to 1,0.61,0.67,0.6,0.36,0.84,0.08
+236,Marian University,13 to 1,0.56,0.8,0.56,0.15,0.66,0.06
+237,Rose-Hulman Institute of Technology,13 to 1,0.77,0.93,0.58,0.13,0.95,N/A
+238,Valparaiso University,13 to 1,0.67,0.82,0.82,0.11,0.91,N/A
+239,Drake University,13 to 1,0.75,0.88,0.67,0.12,0.94,0.03
+240,Morningside College,13 to 1,0.55,0.74,0.56,0.08,0.96,N/A
+241,Northwestern College,13 to 1,0.67,0.82,0.72,0.21,0.94,N/A
+242,University of New England,13 to 1,0.65,0.75,0.85,0.14,0.8,N/A
+243,Emerson College,13 to 1,0.8,1,0.49,0.11,0.58,N/A
+244,Gordon College,13 to 1,0.69,0.85,0.93,0.24,0.98,0.02
+245,Merrimack College,13 to 1,0.71,0.83,0.79,0.11,0.89,0.04
+246,Worcester Polytechnic Institute,13 to 1,0.85,0.96,0.49,0.11,0.92,N/A
+247,Calvin College,13 to 1,0.74,0.86,0.74,0.25,0.95,0.03
+248,Grace Bible College,13 to 1,0.6,0.56,0.81,0.44,0.83,0.03
+249,Hamline University,13 to 1,0.63,0.79,0.72,0.13,0.94,0.04
+250,William Carey University,13 to 1,0.54,0.81,0.57,0.23,0.85,N/A
+251,Maryville University of Saint Louis,13 to 1,0.71,0.89,0.72,0.26,0.68,N/A
+252,Webster University,13 to 1,0.62,0.78,0.56,0.21,0.79,N/A
+253,Clarkson College,13 to 1,0.71,0.71,0.52,0.39,0.6,N/A
+254,Seton Hall University,13 to 1,0.63,0.84,0.76,0.1,0.86,N/A
+255,Le Moyne College,13 to 1,0.68,0.88,0.62,0.09,0.9,0.06
+256,Manhattan College,13 to 1,0.72,0.84,0.67,0.11,0.87,0.04
+257,Niagara University,13 to 1,0.63,0.88,0.85,0.22,0.85,0.08
+258,Roberts Wesleyan College,13 to 1,0.62,0.78,0.66,0.18,0.79,0.06
+259,Rochester Institute of Technology,13 to 1,0.68,0.89,0.57,0.16,0.82,N/A
+260,University at Buffalo,13 to 1,0.74,0.88,0.6,0.15,0.55,N/A
+261,Gardner-Webb University,13 to 1,0.52,0.73,0.53,0.12,0.58,0.1
+262,University of Mary,13 to 1,0.6,0.75,0.96,0.46,0.86,N/A
+263,Baldwin Wallace University,13 to 1,0.67,0.83,0.6,0.18,0.84,0.03
+264,Cedarville University,13 to 1,0.72,0.86,0.74,0.26,0.88,0.02
+265,John Carroll University,13 to 1,0.73,0.85,0.82,0.19,0.97,0.04
+266,Mount Carmel College of Nursing,13 to 1,0.72,0.85,0.82,0.54,0.5,N/A
+267,Walsh University,13 to 1,0.6,0.78,0.8,0.3,0.85,N/A
+268,Oklahoma Christian University,13 to 1,0.49,0.79,0.59,0.17,0.96,0.08
+269,Multnomah University,13 to 1,0.55,0.7,0.59,0.29,0.9,0.03
+270,DeSales University,13 to 1,0.7,0.78,0.78,0.16,0.79,0.04
+271,Duquesne University,13 to 1,0.74,0.85,0.76,0.2,0.92,0.03
+272,Juniata College,13 to 1,0.73,0.86,0.77,0.14,0.92,0.02
+273,Philadelphia University,13 to 1,0.65,0.82,0.64,0.13,0.88,N/A
+274,Saint Joseph's University,13 to 1,0.79,0.9,0.82,0.14,0.9,N/A
+275,Salve Regina University,13 to 1,0.72,0.86,0.73,0.12,0.81,N/A
+276,Citadel Military College of South Carolina,13 to 1,0.67,0.86,0.77,0.25,0.62,0.05
+277,Columbia College,13 to 1,0.5,0.76,0.89,0.36,0.81,0.09
+278,Dallas Baptist University,13 to 1,0.58,0.72,0.42,0.17,0.86,0.08
+279,Texas Christian University,13 to 1,0.76,0.9,0.43,0.11,0.66,N/A
+280,Maranatha Baptist University,13 to 1,0.44,0.77,0.69,0.55,0.65,N/A
+281,Saint Norbert College,13 to 1,0.73,0.82,0.78,0.16,0.94,0.03
+282,Touro University Worldwide,13 to 1,N/A,1,N/A,N/A,0.76,0.04
+283,Spring Hill College,14 to 1,0.53,0.81,0.41,0.06,0.99,0.08
+284,Chapman University,14 to 1,0.79,0.9,0.48,0.1,0.79,0.04
+285,Hope International University,14 to 1,0.42,0.91,0.34,0.12,0.82,N/A
+286,University of Redlands,14 to 1,0.72,0.85,0.68,0.11,0.81,N/A
+287,University of San Francisco,14 to 1,0.71,0.83,0.64,0.08,0.61,N/A
+288,Regis University,14 to 1,0.73,0.79,0.66,0.1,0.54,N/A
+289,Jacksonville University,14 to 1,0.41,0.68,0.54,0.12,0.68,0.1
+290,Elmhurst College,14 to 1,0.67,0.79,0.55,0.13,0.95,0.02
+291,Loyola University Chicago,14 to 1,0.74,0.86,0.71,0.1,0.83,0.05
+292,McKendree University,14 to 1,0.56,0.71,0.63,0.19,0.75,0.09
+293,Olivet Nazarene University,14 to 1,0.61,0.77,0.77,0.18,0.89,N/A
+294,University of Illinois at Springfield,14 to 1,0.48,0.77,0.63,0.18,0.65,N/A
+295,Ball State University,14 to 1,0.6,0.82,0.61,0.16,0.65,0.07
+296,Mount Mercy University,14 to 1,0.65,0.78,0.61,0.21,0.86,0.04
+297,Stevenson University,14 to 1,0.53,0.8,0.6,0.13,0.81,N/A
+298,Babson College,14 to 1,0.89,0.96,0.26,0.07,0.48,N/A
+299,Boston College,14 to 1,0.92,0.95,0.29,0.07,0.45,0.02
+300,Endicott College,14 to 1,0.71,0.86,0.73,0.2,0.77,N/A
+301,Northeastern University,14 to 1,0.84,0.97,0.28,0.06,0.65,N/A
+302,Kettering University,14 to 1,0.54,0.93,0.7,0.18,0.93,N/A
+303,Northwood University-Michigan,14 to 1,0.57,0.78,0.69,0.16,0.83,N/A
+304,University of St Thomas,14 to 1,0.76,0.89,0.84,0.26,0.91,N/A
+305,Evangel University,14 to 1,0.54,0.71,0.61,0.24,0.95,0.07
+306,Concordia University-Nebraska,14 to 1,0.59,0.76,0.78,0.25,0.73,0.04
+307,University of Nebraska at Kearney,14 to 1,0.56,0.8,0.85,0.37,0.71,N/A
+308,Monmouth University,14 to 1,0.67,0.83,0.74,0.14,0.96,0.06
+309,Clarkson University,14 to 1,0.72,0.88,0.68,0.11,0.96,0.03
+310,CUNY Queens College,14 to 1,0.58,0.85,0.4,0.08,0.53,0.05
+311,Fordham University,14 to 1,0.81,0.91,0.48,0.05,0.8,0.05
+312,University of North Carolina at Chapel Hill,14 to 1,0.9,0.97,0.31,0.13,0.53,N/A
+313,Ashland University,14 to 1,0.58,0.75,0.77,0.19,0.59,0.05
+314,Muskingum University,14 to 1,0.52,0.74,0.74,0.18,0.83,0.06
+315,Franciscan University of Steubenville,14 to 1,0.79,0.86,0.79,0.26,0.89,N/A
+316,George Fox University,14 to 1,0.7,0.81,0.77,0.21,0.9,0.03
+317,Lancaster Bible College,14 to 1,0.73,0.79,0.68,0.42,0.9,N/A
+318,Saint Francis University,14 to 1,0.72,0.87,0.74,0.22,0.84,N/A
+319,Temple University,14 to 1,0.71,0.9,0.56,0.17,0.72,N/A
+320,Roger Williams University,14 to 1,0.64,0.81,0.78,0.11,0.84,N/A
+321,Columbia International University,14 to 1,0.62,0.73,0.34,0.17,0.91,N/A
+322,North Greenville University,14 to 1,0.55,0.73,0.58,0.34,0.91,0.06
+323,Belmont University,14 to 1,0.69,0.83,0.8,0.23,0.65,0.03
+324,Bryan College-Dayton,14 to 1,0.57,0.65,0.46,0.24,0.6,0.07
+325,Johnson University,14 to 1,0.57,0.74,0.58,0.42,0.89,N/A
+326,University of Memphis,14 to 1,0.45,0.77,0.4,0.13,0.76,N/A
+327,Baptist Health System School of Health Professions,14 to 1,0.9,N/A,N/A,N/A,0.83,0.04
+328,Southwestern Assemblies of God University,14 to 1,0.41,0.74,0.28,0.2,0.87,N/A
+329,Champlain College,14 to 1,0.58,0.79,0.66,0.1,0.73,N/A
+330,University of Mary Washington,14 to 1,0.7,0.82,0.83,0.18,0.41,0.02
+331,Virginia Polytechnic Institute and State University,14 to 1,0.83,0.94,0.73,0.28,0.52,N/A
+332,University of Charleston,14 to 1,0.47,0.66,0.52,0.16,0.89,0.12
+333,University of Wyoming,14 to 1,0.55,0.77,0.96,0.36,0.71,N/A
+334,John Brown University,15 to 1,0.62,0.81,0.74,0.31,0.74,N/A
+335,Biola University,15 to 1,0.7,0.85,0.7,0.21,0.91,0.03
+336,California Lutheran University,15 to 1,0.66,0.84,0.62,0.09,0.87,0.03
+337,Concordia University-Irvine,15 to 1,0.61,0.72,0.59,0.11,0.81,N/A
+338,Point Loma Nazarene University,15 to 1,0.75,0.84,0.71,0.21,0.82,N/A
+339,Vanguard University of Southern California,15 to 1,0.56,0.78,0.68,0.25,0.81,N/A
+340,Colorado Christian University,15 to 1,0.47,0.79,N/A,N/A,0.54,0.06
+341,Sacred Heart University,15 to 1,0.64,0.83,0.59,0.14,0.85,N/A
+342,Saint Leo University,15 to 1,0.45,0.71,0.73,0.17,0.65,0.1
+343,Northwest Nazarene University,15 to 1,0.49,0.77,0.56,0.17,0.8,N/A
+344,Concordia University-Chicago,15 to 1,0.5,0.62,0.5,0.07,0.89,0.04
+345,Eastern Illinois University,15 to 1,0.58,0.75,0.5,0.13,0.73,0.06
+346,Indiana Wesleyan University-Marion,15 to 1,0.6,0.82,0.95,0.45,0.57,N/A
+347,Dordt College,15 to 1,0.69,0.81,0.7,0.27,1,0.02
+348,University of Iowa,15 to 1,0.72,0.85,0.81,0.2,0.58,N/A
+349,Midway University,15 to 1,0.56,0.78,0.46,0.18,0.86,N/A
+350,Framingham State University,15 to 1,0.56,0.74,0.71,0.18,0.57,0.07
+351,Wentworth Institute of Technology,15 to 1,0.67,0.84,0.67,0.14,0.86,N/A
+352,University of Michigan-Dearborn,15 to 1,0.53,0.8,0.62,0.18,0.63,N/A
+353,The College of Saint Scholastica,15 to 1,0.7,0.84,0.61,0.12,0.82,N/A
+354,Rutgers University-New Brunswick,15 to 1,0.8,0.93,0.58,0.19,0.51,N/A
+355,CUNY Brooklyn College,15 to 1,0.54,0.82,0.37,0.07,0.6,0.07
+356,State University of New York at New Paltz,15 to 1,0.73,0.89,0.42,0.07,0.53,N/A
+357,SUNY at Purchase College,15 to 1,0.58,0.81,0.41,0.1,0.59,0.07
+358,North Carolina State University at Raleigh,15 to 1,0.75,0.93,0.5,0.2,0.54,N/A
+359,Miami University-Oxford,15 to 1,0.8,0.9,0.65,0.14,0.63,0.11
+360,Corban University,15 to 1,0.59,0.8,0.31,0.09,0.94,N/A
+361,Geneva College,15 to 1,0.64,0.83,0.73,0.2,0.75,0.06
+362,University of Pittsburgh-Pittsburgh Campus,15 to 1,0.82,0.92,0.54,0.13,0.53,N/A
+363,Robert Morris University,15 to 1,0.58,0.85,0.78,0.13,0.8,N/A
+364,Wilkes University,15 to 1,0.59,0.77,0.82,0.18,0.84,N/A
+365,John A Gupton College,15 to 1,0.5,0.83,0.77,0.59,0.63,0.13
+366,Abilene Christian University,15 to 1,0.61,0.79,0.5,0.1,0.94,0.09
+367,University of Vermont,15 to 1,0.77,0.86,0.71,0.09,0.77,N/A
+368,University of Virginia-Main Campus,15 to 1,0.93,0.97,0.3,0.12,0.4,N/A
+369,Seattle Pacific University,15 to 1,0.71,0.87,0.82,0.13,0.93,0.03
+370,Washington State University,15 to 1,0.64,0.78,0.8,0.24,0.61,N/A
+371,Marquette University,15 to 1,0.8,0.9,0.74,0.09,0.96,0.03
+372,Bristol University,15 to 1,0.89,0.6,0.46,0.26,0.35,0.12
+373,Faith Evangelical College & Seminary,15 to 1,0.8,0.67,N/A,N/A,0.76,0.07
+374,Sessions College for Professional Design,15 to 1,0.6,0.9,N/A,N/A,0.53,N/A
+375,Harding University,16 to 1,0.64,0.85,0.99,0.66,0.87,0.05
+376,University of California-Los Angeles,16 to 1,0.91,0.96,0.17,0.06,0.61,N/A
+377,Colorado School of Mines,16 to 1,0.77,0.94,0.38,0.09,0.68,0.03
+378,University of Delaware,16 to 1,0.79,0.92,0.67,0.18,0.62,N/A
+379,Nova Southeastern University,16 to 1,0.44,0.8,0.59,0.15,0.83,N/A
+380,University of Idaho,16 to 1,0.57,0.8,0.72,0.26,0.67,N/A
+381,DePaul University,16 to 1,0.73,0.84,0.72,0.13,0.8,0.06
+382,Graceland University-Lamoni,16 to 1,0.52,0.62,0.48,0.13,0.82,0.09
+383,Fort Hays State University,16 to 1,0.43,0.7,0.86,0.41,0.44,0.07
+384,Frostburg State University,16 to 1,0.51,0.76,0.63,0.24,0.56,0.1
+385,Salisbury University,16 to 1,0.67,0.82,0.61,0.14,0.56,0.05
+386,MCPHS University,16 to 1,0.72,0.84,0.87,0.16,0.87,N/A
+387,Massachusetts Maritime Academy,16 to 1,0.72,0.93,0.74,0.47,0.52,0.05
+388,Concordia University-Saint Paul,16 to 1,0.46,0.7,0.55,0.15,0.66,0.06
+389,Truman State University,16 to 1,0.73,0.89,0.79,0.32,0.8,N/A
+390,Daniel Webster College,16 to 1,0.49,0.68,0.62,0.18,0.7,0.08
+391,Marist College,16 to 1,0.78,0.91,0.45,0.13,0.75,N/A
+392,SUNY College of Technology at Delhi,16 to 1,0.43,0.75,0.54,0.16,0.65,0.13
+393,SUNY College of Environmental Science and Forestry,16 to 1,0.75,0.85,0.52,0.2,0.76,N/A
+394,SUNY College at Brockport,16 to 1,0.69,0.82,0.53,0.12,0.61,N/A
+395,SUNY College at Cortland,16 to 1,0.73,0.78,0.51,0.11,0.61,N/A
+396,SUNY College at Plattsburgh,16 to 1,0.65,0.83,0.5,0.12,0.72,N/A
+397,Syracuse University,16 to 1,0.81,0.91,0.48,0.1,0.7,N/A
+398,Appalachian State University,16 to 1,0.71,0.86,0.66,0.23,0.45,0.04
+399,Western Carolina University,16 to 1,0.57,0.8,0.4,0.09,0.65,N/A
+400,University of Dayton,16 to 1,0.79,0.91,0.58,0.13,0.86,N/A
+401,The University of Findlay,16 to 1,0.56,0.78,0.76,0.23,0.92,N/A
+402,Oral Roberts University,16 to 1,0.58,0.8,0.64,0.18,0.87,0.1
+403,University of Western States,16 to 1,0.88,N/A,N/A,N/A,0.56,N/A
+404,Pennsylvania State University-Main Campus,16 to 1,0.86,0.93,0.51,0.14,0.68,N/A
+405,Anderson University,16 to 1,0.49,0.73,0.55,0.2,0.87,0.09
+406,Cumberland University,16 to 1,0.45,0.7,0.49,0.29,0.87,0.11
+407,King University,16 to 1,0.45,0.73,0.44,0.17,0.71,0.08
+408,University of Utah,16 to 1,0.64,0.89,0.81,0.28,0.51,N/A
+409,George Mason University,16 to 1,0.69,0.87,0.69,0.14,0.41,0.02
+410,James Madison University,16 to 1,0.83,0.91,0.73,0.21,0.34,0.03
+411,Longwood University,16 to 1,0.66,0.8,0.79,0.22,0.48,0.05
+412,Milwaukee School of Engineering,16 to 1,0.64,0.87,0.65,0.22,0.89,0.05
+413,Unitek College,16 to 1,N/A,1,N/A,N/A,0.2,N/A
+414,University of California-Berkeley,17 to 1,0.92,0.96,0.17,0.07,0.61,N/A
+415,University of California-Santa Barbara,17 to 1,0.81,0.93,0.33,0.06,0.66,N/A
+416,University of La Verne,17 to 1,0.64,0.85,0.47,0.09,0.73,N/A
+417,University of Connecticut,17 to 1,0.83,0.92,0.53,0.11,0.62,N/A
+418,North Florida Community College,17 to 1,0.52,0.7,N/A,N/A,0.6,N/A
+419,Warner University,17 to 1,0.4,0.72,0.51,0.36,0.99,N/A
+420,Georgia College and State University,17 to 1,0.6,0.86,0.76,0.37,0.79,0.05
+421,Moody Bible Institute,17 to 1,0.69,0.86,0.68,0.48,0.8,N/A
+422,Indiana University-Bloomington,17 to 1,0.77,0.89,0.78,0.23,0.59,0.05
+423,University of Northern Iowa,17 to 1,0.68,0.8,0.8,0.36,0.55,N/A
+424,University of Kentucky,17 to 1,0.63,0.83,0.89,0.28,0.78,0.06
+425,University of Maryland-College Park,17 to 1,0.86,0.95,0.45,0.14,0.52,N/A
+426,Towson University,17 to 1,0.7,0.86,0.73,0.25,0.47,N/A
+427,University of Massachusetts-Lowell,17 to 1,0.56,0.86,0.57,0.15,0.55,N/A
+428,Westfield State University,17 to 1,0.63,0.79,0.8,0.25,0.56,N/A
+429,Grand Valley State University,17 to 1,0.67,0.84,0.81,0.24,0.65,0.04
+430,Michigan State University,17 to 1,0.77,0.92,0.66,0.23,0.51,N/A
+431,University of Minnesota-Twin Cities,17 to 1,0.77,0.93,0.45,0.13,0.5,N/A
+432,Park University,17 to 1,0.43,0.59,0.4,0.11,0.37,0.1
+433,Plymouth State University,17 to 1,0.58,0.76,0.74,0.2,0.61,0.05
+434,Montclair State University,17 to 1,0.66,0.83,0.7,0.26,0.51,0.05
+435,Ramapo College of New Jersey,17 to 1,0.74,0.86,0.53,0.13,0.43,N/A
+436,Stockton University,17 to 1,0.73,0.87,0.64,0.21,0.56,N/A
+437,CUNY Bernard M Baruch College,17 to 1,0.7,0.91,0.32,0.07,0.56,0.05
+438,Fashion Institute of Technology,17 to 1,0.75,0.9,0.41,0.27,0.41,0.07
+439,Stony Brook University,17 to 1,0.68,0.9,0.41,0.08,0.57,N/A
+440,SUNY Polytechnic Institute,17 to 1,0.49,0.74,0.6,0.15,0.69,N/A
+441,SUNY College at Oswego,17 to 1,0.66,0.8,0.51,0.14,0.76,N/A
+442,SUNY Maritime College,17 to 1,0.56,0.87,0.68,0.25,0.54,0.08
+443,University of North Carolina at Greensboro,17 to 1,0.56,0.77,0.59,0.26,0.55,N/A
+444,University of North Carolina Wilmington,17 to 1,0.71,0.85,0.61,0.18,0.53,N/A
+445,Concordia University-Portland,17 to 1,0.48,0.74,0.51,0.08,1,N/A
+446,South Dakota State University,17 to 1,0.54,0.76,0.92,0.44,0.58,0.05
+447,University of South Dakota,17 to 1,0.52,0.77,0.74,0.31,0.54,N/A
+448,The University of Tennessee-Knoxville,17 to 1,0.7,0.85,0.76,0.28,0.75,0.07
+449,Trevecca Nazarene University,17 to 1,0.51,0.77,0.73,0.31,0.77,0.06
+450,Virginia Commonwealth University,17 to 1,0.62,0.86,0.79,0.27,0.55,N/A
+451,Mountain State College,17 to 1,0.92,0.83,N/A,N/A,0.06,0.18
+452,Apex School of Theology,17 to 1,0.95,0.97,N/A,N/A,0.99,0.11
+453,University of Alabama at Birmingham,18 to 1,0.55,0.79,0.6,0.21,0.58,N/A
+454,Northern Arizona University,18 to 1,0.52,0.74,0.77,0.17,0.64,0.09
+455,California Baptist University,18 to 1,0.6,0.76,0.65,0.26,0.85,0.08
+456,University of California-Davis,18 to 1,0.85,0.93,0.38,0.08,0.72,N/A
+457,University of California-Santa Cruz,18 to 1,0.78,0.88,0.5,0.08,0.74,N/A
+458,University of Colorado Boulder,18 to 1,0.71,0.86,0.8,0.2,0.43,0.04
+459,Colorado State University-Fort Collins,18 to 1,0.67,0.87,0.81,0.26,0.5,0.04
+460,University of North Florida,18 to 1,0.55,0.8,0.57,0.14,0.61,0.08
+461,University of Georgia,18 to 1,0.85,0.95,0.53,0.24,0.82,N/A
+462,University of Illinois at Chicago,18 to 1,0.6,0.81,0.77,0.22,0.65,N/A
+463,Illinois State University,18 to 1,0.73,0.82,0.88,0.3,0.5,0.04
+464,University of Massachusetts-Amherst,18 to 1,0.78,0.91,0.58,0.12,0.69,N/A
+465,University of Northwestern-St Paul,18 to 1,0.66,0.82,0.87,0.33,0.59,N/A
+466,Saint Mary's University of Minnesota,18 to 1,0.61,0.8,0.78,0.19,0.69,N/A
+467,Crown College,18 to 1,0.56,0.68,0.53,0.15,0.8,0.06
+468,University of Mississippi,18 to 1,0.61,0.87,0.79,0.22,0.68,0.08
+469,Rivier University,18 to 1,0.43,0.77,0.57,0.11,0.6,N/A
+470,Rowan University,18 to 1,0.67,0.86,0.71,0.18,0.43,N/A
+471,Monroe College,18 to 1,0.53,0.78,0.45,0.28,0.92,0.1
+472,SUNY College of Technology at Alfred,18 to 1,0.5,0.88,0.57,0.22,0.8,N/A
+473,SUNY at Albany,18 to 1,0.68,0.82,0.56,0.12,0.6,N/A
+474,East Carolina University,18 to 1,0.62,0.8,0.69,0.25,0.5,N/A
+475,North Dakota State University-Main Campus,18 to 1,0.54,0.78,0.94,0.48,0.56,0.03
+476,University of Cincinnati-Main Campus,18 to 1,0.62,0.88,0.86,0.29,0.58,N/A
+477,Ohio University-Main Campus,18 to 1,0.67,0.79,0.74,0.21,0.53,N/A
+478,University of Oklahoma-Norman Campus,18 to 1,0.66,0.86,0.78,0.35,0.62,N/A
+479,Oregon State University,18 to 1,0.64,0.85,0.78,0.26,0.54,N/A
+480,Clarion University of Pennsylvania,18 to 1,0.49,0.73,0.96,0.43,0.62,0.08
+481,Southern Wesleyan University,18 to 1,0.5,0.69,0.62,0.22,0.8,0.12
+482,Clemson University,18 to 1,0.81,0.93,0.51,0.15,0.71,N/A
+483,Dakota State University,18 to 1,0.38,0.74,0.81,0.38,0.39,0.09
+484,The University of Texas at Austin,18 to 1,0.8,0.95,0.39,0.18,0.45,N/A
+485,Texas Woman's University,18 to 1,0.41,0.76,0.86,0.24,0.67,0.08
+486,Liberty University,18 to 1,0.47,0.75,0.22,0.1,0.84,N/A
+487,Western Washington University,18 to 1,0.71,0.82,0.82,0.28,0.48,N/A
+488,University of Wisconsin-La Crosse,18 to 1,0.68,0.85,0.8,0.34,0.43,N/A
+489,University of Wisconsin-Madison,18 to 1,0.85,0.96,0.58,0.22,0.42,N/A
+490,University of California-Merced,18 to 1,0.66,0.84,0.61,0.09,0.88,N/A
+491,Auburn University,19 to 1,0.73,0.9,0.78,0.25,0.53,0.06
+492,University of Arkansas,19 to 1,0.62,0.82,0.6,0.24,0.58,N/A
+493,University of California-Irvine,19 to 1,0.88,0.93,0.39,0.08,0.73,N/A
+494,University of California-Riverside,19 to 1,0.73,0.91,0.56,0.11,0.84,N/A
+495,Georgia Institute of Technology-Main Campus,19 to 1,0.85,0.97,0.32,0.11,0.63,N/A
+496,University of Illinois at Urbana-Champaign,19 to 1,0.85,0.93,0.66,0.22,0.51,N/A
+497,Iowa State University,19 to 1,0.71,0.87,0.87,0.33,0.67,0.05
+498,Kansas State University,19 to 1,0.62,0.83,0.95,0.39,0.57,0.06
+499,University of Maryland-Baltimore County,19 to 1,0.63,0.86,0.59,0.15,0.51,N/A
+500,Mississippi State University,19 to 1,0.6,0.82,0.65,0.28,0.78,0.08
+501,Missouri University of Science and Technology,19 to 1,0.65,0.87,0.88,0.41,0.77,0.05
+502,University of New Hampshire-Main Campus,19 to 1,0.79,0.85,0.79,0.17,0.58,N/A
+503,University of North Carolina at Charlotte,19 to 1,0.53,0.83,0.63,0.21,0.52,N/A
+504,Ohio State University-Main Campus,19 to 1,0.83,0.94,0.49,0.17,0.65,N/A
+505,Oregon Institute of Technology,19 to 1,0.46,0.78,0.57,0.23,0.47,N/A
+506,University of Oregon,19 to 1,0.71,0.88,0.74,0.19,0.6,N/A
+507,West Chester University of Pennsylvania,19 to 1,0.71,0.88,0.59,0.19,0.43,N/A
+508,University of South Carolina-Columbia,19 to 1,0.72,0.87,0.65,0.2,0.71,N/A
+509,Old Dominion University,19 to 1,0.53,0.82,0.83,0.31,0.55,N/A
+510,Fashion Institute of Design & Merchandising-Los Angeles,20 to 1,0.7,0.92,0.49,0.33,0.39,0.1
+511,University of Florida,20 to 1,0.87,0.96,0.48,0.24,0.88,N/A
+512,Southeastern University,20 to 1,0.39,0.67,0.46,0.26,0.77,0.09
+513,Savannah College of Art and Design,20 to 1,0.67,0.85,0.7,0.21,0.88,0.09
+514,University of West Georgia,20 to 1,0.39,0.72,0.57,0.31,0.73,0.09
+515,Central Michigan University,20 to 1,0.59,0.79,0.69,0.19,0.74,0.06
+516,Winona State University,20 to 1,0.58,0.81,0.62,0.24,0.54,N/A
+517,University of Missouri-Columbia,20 to 1,0.69,0.87,0.78,0.28,0.6,N/A
+518,SUNY at Binghamton,20 to 1,0.81,0.91,0.42,0.09,0.51,N/A
+519,SUNY College at Geneseo,20 to 1,0.82,0.89,0.73,0.15,0.55,N/A
+520,Oklahoma State University-Main Campus,20 to 1,0.61,0.81,0.75,0.33,0.76,0.07
+521,Texas A & M University-Commerce,20 to 1,0.42,0.73,0.47,0.15,0.73,N/A
+522,Texas A & M University-College Station,20 to 1,0.79,0.9,0.67,0.31,0.57,N/A
+523,Brigham Young University-Provo,20 to 1,0.8,0.86,0.48,0.38,0.71,0.01
+524,Central Washington University,20 to 1,0.52,0.79,0.82,0.34,0.56,0.07
+525,University of Washington-Seattle Campus,20 to 1,0.84,0.94,0.53,0.18,0.43,N/A
+526,West Virginia University,20 to 1,0.57,0.79,0.86,0.31,0.64,0.09
+527,University of Wisconsin-Stout,20 to 1,0.57,0.76,0.93,0.49,0.44,N/A
+528,American Sentinel University,20 to 1,N/A,1,N/A,N/A,0.22,N/A
+529,Georgia Southern University,21 to 1,0.5,0.82,0.6,0.35,0.67,0.09
+530,University of Nebraska-Lincoln,21 to 1,0.67,0.83,0.76,0.48,0.52,N/A
+531,University of North Dakota,21 to 1,0.54,0.81,0.82,0.39,0.51,N/A
+532,Kent State University at Kent,21 to 1,0.56,0.81,0.85,0.27,0.68,0.12
+533,California University of Pennsylvania,21 to 1,0.5,0.77,0.85,0.26,0.62,0.08
+534,Sam Houston State University,21 to 1,0.49,0.8,0.73,0.29,0.69,0.11
+535,University of Wisconsin-Eau Claire,21 to 1,0.65,0.8,0.85,0.39,0.46,N/A
+536,University of Arizona,22 to 1,0.61,0.8,0.76,0.23,0.69,0.07
+537,California Polytechnic State University-San Luis Obispo,22 to 1,0.76,0.93,0.31,0.11,0.55,0.03
+538,The University of West Florida,22 to 1,0.47,0.72,0.42,0.19,0.63,N/A
+539,Slippery Rock University of Pennsylvania,22 to 1,0.68,0.83,0.68,0.26,0.58,N/A
+540,Texas Tech University,22 to 1,0.6,0.83,0.63,0.22,0.52,N/A
+541,Utah State University,22 to 1,0.49,0.71,0.97,0.29,0.56,0.06
+542,University of Wisconsin-Whitewater,22 to 1,0.6,0.81,0.8,0.36,0.43,N/A
+543,University of Wisconsin-Platteville,22 to 1,0.54,0.75,0.94,0.46,0.47,N/A
+544,Chamberlain College of Nursing-Illinois,22 to 1,0.89,0.93,0.68,0.64,0.57,N/A
+545,Luther Rice University & Seminary,23 to 1,1,1,1,1,0.65,N/A
+546,Grace College and Theological Seminary,23 to 1,0.6,0.8,0.77,0.09,0.71,0.04
+547,Louisiana State University and Agricultural & Mechanical College,23 to 1,0.67,0.85,0.77,0.32,0.72,0.05
+548,Louisiana Tech University,23 to 1,0.52,0.8,0.64,0.31,0.72,0.08
+549,Minnesota State University-Mankato,23 to 1,0.49,0.74,0.67,0.24,0.48,0.06
+550,The University of Texas at Dallas,23 to 1,0.66,0.84,0.61,0.24,0.65,0.07
+551,University of Wisconsin-Green Bay,23 to 1,0.46,0.75,0.85,0.37,0.47,N/A
+552,The University of Alabama,24 to 1,0.67,0.86,0.54,0.2,0.57,N/A
+553,California State University-Long Beach,24 to 1,0.67,0.89,0.34,0.08,0.72,0.05
+554,University of South Florida-Main Campus,24 to 1,0.68,0.88,0.45,0.14,0.72,N/A
+555,Alexandria Technical & Community College,24 to 1,0.64,0.71,N/A,N/A,0.53,0.12
+556,California State University-San Marcos,24 to 1,0.51,0.81,0.54,0.16,0.69,0.05
+557,California State University-Chico,25 to 1,0.64,0.84,0.63,0.12,0.63,0.07
+558,California State University-Fresno,25 to 1,0.58,0.83,0.52,0.18,0.75,0.07
+559,California State University-Fullerton,25 to 1,0.62,0.88,0.42,0.11,0.65,0.06
+560,Florida International University,25 to 1,0.58,0.88,0.5,0.2,0.69,0.1
+561,Florida State University,25 to 1,0.79,0.93,0.56,0.2,0.81,N/A
+562,Brigham Young University-Idaho,25 to 1,0.61,0.68,1,0.47,0.6,0.03
+563,The University of Texas at Arlington,25 to 1,0.46,0.71,0.66,0.26,0.54,N/A
+564,West Virginia Junior College-Morgantown,25 to 1,0.53,0.69,N/A,N/A,0.88,N/A
+565,California State Polytechnic University-Pomona,27 to 1,0.63,0.89,0.39,0.08,0.67,0.05
+566,San Jose State University,27 to 1,0.57,0.86,0.55,0.11,0.64,0.05
+567,San Diego State University,28 to 1,0.68,0.89,0.34,0.09,0.59,N/A
+568,Regent University,28 to 1,0.49,0.8,0.84,0.25,0.84,N/A
+569,University of Central Florida,30 to 1,0.7,0.89,0.49,0.18,0.69,N/A
+570,Southern New Hampshire University,30 to 1,0.58,0.61,0.92,0.21,0.52,0.08
+571,University of Florida-Online,35 to 1,N/A,0.88,0.56,0.51,0.55,N/A
