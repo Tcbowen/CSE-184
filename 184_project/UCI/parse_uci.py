@@ -47,3 +47,11 @@ with open('UCI files.csv', mode = 'w', newline = '') as csvfile:
                                     'class_number': None
                                 }
                                 writer.writerow(class_info)
+                            else:
+                                class_info = {
+                                    'num_people_enrolled':enrollment_info[1].text,
+                                    'total_class_size':enrollment_info[0].text,
+                                    'term':term_year,
+                                    'class_number':None
+                                }
+                                writer.writerow(class_info)

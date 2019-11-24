@@ -11,17 +11,42 @@ num_people_enrolled,total_class_size,class_number,term
 14 , 178,,2014 Spring
 18 , 106,,2014 Spring
 12 , 24,,2014 Spring
+86,98,,2014 Spring
 119 , 136,,2014 Spring
 96 , 117,,2014 Spring
 100 , 128,,2014 Spring
 160 , 178,,2014 Spring
+96,100,,2014 Spring
+98,100,,2014 Spring
 85 , 106,,2014 Spring
+35,52,,2014 Spring
+70,77,,2014 Spring
+49,50,,2014 Spring
+0,15,,2014 Spring
+0,30,,2014 Spring
 22 , 46,,2014 Spring
+5,10,,2014 Spring
 4 , 13,,2014 Spring
+29,30,,2014 Spring
+23,50,,2014 Spring
+17,50,,2014 Spring
 25 , 37,,2014 Spring
 21 , 31,,2014 Spring
+27,30,,2014 Spring
+51,58,,2014 Spring
 8 , 30,,2014 Spring
+22,50,,2014 Spring
+63,63,,2014 Spring
+10,30,,2014 Spring
+12,15,,2014 Spring
+7,20,,2014 Spring
+21,50,,2014 Spring
+9,30,,2014 Spring
+4,15,,2014 Spring
 2 , 11,,2014 Spring
+10,30,,2014 Spring
+10,15,,2014 Spring
+14,30,,2014 Spring
 2 , 283,,2014 Spring
 3 , 208,,2014 Spring
 3 , 327,,2014 Spring
@@ -47,15 +72,34 @@ num_people_enrolled,total_class_size,class_number,term
 9 , 95,,2014 Winter
 15 , 25,,2014 Winter
 70 , 92,,2014 Winter
+38,50,,2014 Winter
 43 , 82,,2014 Winter
 85 , 104,,2014 Winter
+103,110,,2014 Winter
+6,31,,2014 Winter
+23,30,,2014 Winter
+42,50,,2014 Winter
+27,55,,2014 Winter
 40 , 59,,2014 Winter
+79,75,,2014 Winter
+129,130,,2014 Winter
 86 , 95,,2014 Winter
 82 , 82,,2014 Winter
+69,130,,2014 Winter
+49,60,,2014 Winter
+0,30,,2014 Winter
 19 , 27,,2014 Winter
+16,30,,2014 Winter
 83 , 99,,2014 Winter
+51,79,,2014 Winter
+35,55,,2014 Winter
+19,40,,2014 Winter
 49 , 50,,2014 Winter
 12 , 27,,2014 Winter
+47,60,,2014 Winter
+8,30,,2014 Winter
+25,60,,2014 Winter
+45,70,,2014 Winter
 0 , 366,,2014 Winter
 5 , 450,,2014 Winter
 1 , 100,,2014 Winter
@@ -82,15 +126,34 @@ num_people_enrolled,total_class_size,class_number,term
 7 , 75,,2013 Winter
 14 , 24,,2013 Winter
 58 , 75,,2013 Winter
+35,50,,2013 Winter
 39 , 75,,2013 Winter
 58 , 75,,2013 Winter
+110,110,,2013 Winter
+5,35,,2013 Winter
+15,50,,2013 Winter
+50,50,,2013 Winter
+36,55,,2013 Winter
 33 , 52,,2013 Winter
+73,75,,2013 Winter
+128,130,,2013 Winter
 68 , 75,,2013 Winter
 66 , 66,,2013 Winter
+65,130,,2013 Winter
+45,65,,2013 Winter
+0,30,,2013 Winter
 36 , 40,,2013 Winter
+13,30,,2013 Winter
 79 , 100,,2013 Winter
+69,75,,2013 Winter
+39,55,,2013 Winter
+21,40,,2013 Winter
 45 , 49,,2013 Winter
 22 , 39,,2013 Winter
+60,60,,2013 Winter
+5,30,,2013 Winter
+33,60,,2013 Winter
+60,60,,2013 Winter
 3 , 327,,2013 Winter
 0 , 173,,2013 Winter
 1 , 111,,2013 Winter
@@ -114,11 +177,28 @@ num_people_enrolled,total_class_size,class_number,term
 23 , 84,,2013 Fall
 15 , 177,,2013 Fall
 19 , 25,,2013 Fall
+32,50,,2013 Fall
 129 , 142,,2013 Fall
 114 , 152,,2013 Fall
+138,140,,2013 Fall
 159 , 177,,2013 Fall
+56,56,,2013 Fall
+122,131,,2013 Fall
+49,52,,2013 Fall
 3 , 20,,2013 Fall
+0,10,,2013 Fall
+22,30,,2013 Fall
+32,53,,2013 Fall
 54 , 106,,2013 Fall
+51,80,,2013 Fall
+44,50,,2013 Fall
+39,53,,2013 Fall
+6,30,,2013 Fall
+44,52,,2013 Fall
+98,103,,2013 Fall
+13,20,,2013 Fall
+20,30,,2013 Fall
+5,20,,2013 Fall
 0 , 107,,2013 Fall
 10 , 300,,2013 Fall
 10 , 301,,2013 Fall
@@ -140,15 +220,40 @@ num_people_enrolled,total_class_size,class_number,term
 24 , 131,,2013 Spring
 11 , 83,,2013 Spring
 20 , 36,,2013 Spring
+12,80,,2013 Spring
+17,30,,2013 Spring
+41,50,,2013 Spring
 115 , 116,,2013 Spring
+17,60,,2013 Spring
 84 , 106,,2013 Spring
+56,65,,2013 Spring
 153 , 183,,2013 Spring
 97 , 131,,2013 Spring
 115 , 147,,2013 Spring
+71,75,,2013 Spring
 65 , 83,,2013 Spring
+18,40,,2013 Spring
+81,85,,2013 Spring
+3,30,,2013 Spring
+5,30,,2013 Spring
 7 , 23,,2013 Spring
+21,30,,2013 Spring
+26,50,,2013 Spring
+10,30,,2013 Spring
+36,60,,2013 Spring
 32 , 34,,2013 Spring
+23,50,,2013 Spring
+5,30,,2013 Spring
+3,30,,2013 Spring
 12 , 25,,2013 Spring
+52,60,,2013 Spring
+6,20,,2013 Spring
+7,20,,2013 Spring
+14,30,,2013 Spring
+49,50,,2013 Spring
+7,30,,2013 Spring
+7,30,,2013 Spring
+13,30,,2013 Spring
 1 , 167,,2013 Spring
 1 , 156,,2013 Spring
 1 , 198,,2013 Spring
@@ -172,10 +277,37 @@ num_people_enrolled,total_class_size,class_number,term
 16 , 117,,2012 Winter
 6 , 64,,2012 Winter
 21 , 30,,2012 Winter
+39,85,,2012 Winter
+50,50,,2012 Winter
 20 , 46,,2012 Winter
+84,120,,2012 Winter
+100,100,,2012 Winter
 75 , 117,,2012 Winter
+18,50,,2012 Winter
 97 , 112,,2012 Winter
+76,170,,2012 Winter
 56 , 64,,2012 Winter
+68,100,,2012 Winter
+88,100,,2012 Winter
+4,20,,2012 Winter
+8,40,,2012 Winter
+24,30,,2012 Winter
+85,85,,2012 Winter
+28,30,,2012 Winter
+54,55,,2012 Winter
+31,30,,2012 Winter
+42,60,,2012 Winter
+21,60,,2012 Winter
+1,30,,2012 Winter
+48,60,,2012 Winter
+30,30,,2012 Winter
+3,30,,2012 Winter
+32,50,,2012 Winter
+48,60,,2012 Winter
+3,10,,2012 Winter
+7,30,,2012 Winter
+12,12,,2012 Winter
+10,25,,2012 Winter
 0 , 126,,2012 Winter
 2 , 144,,2012 Winter
 0 , 62,,2012 Winter
@@ -200,11 +332,28 @@ num_people_enrolled,total_class_size,class_number,term
 23 , 36,,2012 Fall
 51 , 62,,2012 Fall
 105 , 123,,2012 Fall
+1,50,,2012 Fall
+113,120,,2012 Fall
 37 , 43,,2012 Fall
+78,138,,2012 Fall
 112 , 129,,2012 Fall
+132,128,,2012 Fall
+23,50,,2012 Fall
+42,80,,2012 Fall
 2 , 32,,2012 Fall
+4,10,,2012 Fall
+37,52,,2012 Fall
+47,52,,2012 Fall
+64,80,,2012 Fall
 37 , 74,,2012 Fall
 23 , 29,,2012 Fall
+49,50,,2012 Fall
+34,50,,2012 Fall
+10,30,,2012 Fall
+46,52,,2012 Fall
+68,82,,2012 Fall
+11,20,,2012 Fall
+26,30,,2012 Fall
 3 , 159,,2012 Fall
 3 , 151,,2012 Fall
 0 , 180,,2012 Fall
@@ -223,13 +372,33 @@ num_people_enrolled,total_class_size,class_number,term
 28 , 138,,2012 Spring
 23 , 125,,2012 Spring
 25 , 37,,2012 Spring
+18,30,,2012 Spring
 76 , 92,,2012 Spring
+72,85,,2012 Spring
 98 , 125,,2012 Spring
 75 , 90,,2012 Spring
+13,30,,2012 Spring
+60,70,,2012 Spring
+142,160,,2012 Spring
+34,50,,2012 Spring
+36,50,,2012 Spring
+99,100,,2012 Spring
+3,30,,2012 Spring
+34,45,,2012 Spring
 0 , 15,,2012 Spring
 46 , 59,,2012 Spring
+48,50,,2012 Spring
+48,52,,2012 Spring
+5,30,,2012 Spring
 4 , 8,,2012 Spring
+61,80,,2012 Spring
+12,50,,2012 Spring
+7,20,,2012 Spring
+6,20,,2012 Spring
+35,50,,2012 Spring
+10,30,,2012 Spring
 0 , 10,,2012 Spring
+9,30,,2012 Spring
 2 , 6,,2012 Spring
 0 , 123,,2012 Spring
 1 , 116,,2012 Spring
@@ -253,12 +422,37 @@ num_people_enrolled,total_class_size,class_number,term
 18 , 65,,2011 Winter
 2 , 90,,2011 Winter
 27 , 34,,2011 Winter
+64,78,,2011 Winter
 22 , 41,,2011 Winter
+60,60,,2011 Winter
+24,50,,2011 Winter
 40 , 65,,2011 Winter
 79 , 100,,2011 Winter
+35,110,,2011 Winter
 85 , 90,,2011 Winter
+32,78,,2011 Winter
+42,55,,2011 Winter
+15,55,,2011 Winter
+6,30,,2011 Winter
+13,30,,2011 Winter
+21,30,,2011 Winter
 36 , 50,,2011 Winter
+21,30,,2011 Winter
+56,56,,2011 Winter
+30,30,,2011 Winter
+55,55,,2011 Winter
+29,55,,2011 Winter
+50,50,,2011 Winter
 25 , 40,,2011 Winter
+5,30,,2011 Winter
+15,52,,2011 Winter
+23,30,,2011 Winter
+5,30,,2011 Winter
+48,50,,2011 Winter
+1,30,,2011 Winter
+7,30,,2011 Winter
+10,25,,2011 Winter
+0,25,,2011 Winter
 0 , 109,,2011 Winter
 3 , 137,,2011 Winter
 3 , 80,,2011 Winter
@@ -287,10 +481,35 @@ num_people_enrolled,total_class_size,class_number,term
 26 , 38,,2011 Fall
 48 , 56,,2011 Fall
 77 , 79,,2011 Fall
+35,65,,2011 Fall
+6,32,,2011 Fall
+49,52,,2011 Fall
 19 , 25,,2011 Fall
 43 , 60,,2011 Fall
+20,30,,2011 Fall
+11,30,,2011 Fall
+65,131,,2011 Fall
 70 , 93,,2011 Fall
+20,52,,2011 Fall
+44,97,,2011 Fall
+23,55,,2011 Fall
+6,10,,2011 Fall
+3,32,,2011 Fall
+15,45,,2011 Fall
+8,45,,2011 Fall
+12,40,,2011 Fall
+20,20,,2011 Fall
 32 , 51,,2011 Fall
+2,30,,2011 Fall
+9,100,,2011 Fall
+23,52,,2011 Fall
+29,52,,2011 Fall
+13,65,,2011 Fall
+19,30,,2011 Fall
+5,20,,2011 Fall
+9,30,,2011 Fall
+11,30,,2011 Fall
+11,30,,2011 Fall
 6 , 110,,2011 Fall
 0 , 11,,2011 Fall
 0 , 40,,2011 Fall
@@ -312,14 +531,47 @@ num_people_enrolled,total_class_size,class_number,term
 1 , 33,,2011 Spring
 18 , 119,,2011 Spring
 15 , 28,,2011 Spring
+10,30,,2011 Spring
+13,30,,2011 Spring
+0,30,,2011 Spring
 36 , 40,,2011 Spring
+55,55,,2011 Spring
+60,60,,2011 Spring
+0,0,,2011 Spring
+40,40,,2011 Spring
 25 , 33,,2011 Spring
 92 , 119,,2011 Spring
 18 , 23,,2011 Spring
+60,60,,2011 Spring
+48,50,,2011 Spring
+15,15,,2011 Spring
+18,30,,2011 Spring
+50,100,,2011 Spring
+12,30,,2011 Spring
+27,30,,2011 Spring
+30,30,,2011 Spring
+30,30,,2011 Spring
+10,30,,2011 Spring
 19 , 27,,2011 Spring
 5 , 11,,2011 Spring
+17,30,,2011 Spring
 23 , 30,,2011 Spring
 11 , 18,,2011 Spring
+30,30,,2011 Spring
+2,30,,2011 Spring
+14,15,,2011 Spring
+3,30,,2011 Spring
+28,55,,2011 Spring
+30,30,,2011 Spring
+13,30,,2011 Spring
+0,30,,2011 Spring
+8,30,,2011 Spring
+6,30,,2011 Spring
+3,30,,2011 Spring
+0,30,,2011 Spring
+0,30,,2011 Spring
+0,30,,2011 Spring
+2,30,,2011 Spring
 0 , 62,,2011 Spring
 0 , 22,,2011 Spring
 0 , 49,,2011 Spring
@@ -343,13 +595,42 @@ num_people_enrolled,total_class_size,class_number,term
 20 , 122,,2010 Winter
 2 , 21,,2010 Winter
 13 , 34,,2010 Winter
+34,50,,2010 Winter
+3,30,,2010 Winter
 14 , 32,,2010 Winter
+40,65,,2010 Winter
+53,70,,2010 Winter
+18,50,,2010 Winter
 79 , 122,,2010 Winter
+20,20,,2010 Winter
 55 , 75,,2010 Winter
+39,55,,2010 Winter
+80,110,,2010 Winter
+25,40,,2010 Winter
 19 , 21,,2010 Winter
+56,65,,2010 Winter
+55,55,,2010 Winter
+24,30,,2010 Winter
+2,15,,2010 Winter
 3 , 25,,2010 Winter
+37,50,,2010 Winter
+21,30,,2010 Winter
+22,23,,2010 Winter
+23,30,,2010 Winter
+52,56,,2010 Winter
 12 , 20,,2010 Winter
+33,56,,2010 Winter
 22 , 40,,2010 Winter
+3,30,,2010 Winter
+30,30,,2010 Winter
+52,52,,2010 Winter
+5,30,,2010 Winter
+2,30,,2010 Winter
+3,30,,2010 Winter
+2,30,,2010 Winter
+21,30,,2010 Winter
+15,15,,2010 Winter
+4,30,,2010 Winter
 0 , 12,,2010 Winter
 0 , 89,,2010 Winter
 2 , 72,,2010 Winter
@@ -375,11 +656,27 @@ num_people_enrolled,total_class_size,class_number,term
 13 , 24,,2010 Fall
 26 , 59,,2010 Fall
 23 , 33,,2010 Fall
+75,76,,2010 Fall
 22 , 23,,2010 Fall
 58 , 66,,2010 Fall
+46,52,,2010 Fall
 33 , 38,,2010 Fall
+15,30,,2010 Fall
+40,50,,2010 Fall
 28 , 59,,2010 Fall
+65,110,,2010 Fall
+14,30,,2010 Fall
+12,30,,2010 Fall
+15,30,,2010 Fall
 24 , 29,,2010 Fall
+13,52,,2010 Fall
+2,30,,2010 Fall
+12,30,,2010 Fall
+3,30,,2010 Fall
+1,30,,2010 Fall
+2,30,,2010 Fall
+3,30,,2010 Fall
+1,30,,2010 Fall
 2 , 127,,2010 Fall
 0 , 25,,2010 Fall
 2 , 27,,2010 Fall
@@ -399,15 +696,47 @@ num_people_enrolled,total_class_size,class_number,term
 27 , 119,,2010 Spring
 4 , 50,,2010 Spring
 2 , 3,,2010 Spring
+9,30,,2010 Spring
 69 , 74,,2010 Spring
+14,30,,2010 Spring
+5,30,,2010 Spring
 46 , 47,,2010 Spring
+7,10,,2010 Spring
+16,30,,2010 Spring
 88 , 119,,2010 Spring
 38 , 52,,2010 Spring
+52,52,,2010 Spring
+55,55,,2010 Spring
 42 , 50,,2010 Spring
+35,40,,2010 Spring
+12,30,,2010 Spring
+15,25,,2010 Spring
+30,30,,2010 Spring
+3,30,,2010 Spring
+34,50,,2010 Spring
+3,40,,2010 Spring
 3 , 25,,2010 Spring
+2,30,,2010 Spring
+8,30,,2010 Spring
+7,30,,2010 Spring
+17,30,,2010 Spring
+5,30,,2010 Spring
+20,20,,2010 Spring
 21 , 21,,2010 Spring
 11 , 12,,2010 Spring
 1 , 5,,2010 Spring
+1,30,,2010 Spring
+3,30,,2010 Spring
+30,30,,2010 Spring
+30,30,,2010 Spring
+5,30,,2010 Spring
+9,30,,2010 Spring
+3,30,,2010 Spring
+2,30,,2010 Spring
+1,30,,2010 Spring
+1,30,,2010 Spring
+2,30,,2010 Spring
+5,30,,2010 Spring
 0 , 7,,2010 Spring
 2 , 32,,2010 Spring
 3 , 57,,2010 Spring
@@ -430,11 +759,41 @@ num_people_enrolled,total_class_size,class_number,term
 33 , 46,,2009 Winter
 21 , 66,,2009 Winter
 25 , 27,,2009 Winter
+27,30,,2009 Winter
 6 , 21,,2009 Winter
+50,50,,2009 Winter
+47,60,,2009 Winter
+29,55,,2009 Winter
 37 , 66,,2009 Winter
+11,30,,2009 Winter
 67 , 92,,2009 Winter
+48,50,,2009 Winter
+21,30,,2009 Winter
+14,30,,2009 Winter
+64,100,,2009 Winter
+50,50,,2009 Winter
+18,30,,2009 Winter
+13,30,,2009 Winter
+17,30,,2009 Winter
+45,50,,2009 Winter
+26,30,,2009 Winter
 4 , 4,,2009 Winter
+7,30,,2009 Winter
 2 , 15,,2009 Winter
+21,50,,2009 Winter
+5,30,,2009 Winter
+18,50,,2009 Winter
+19,30,,2009 Winter
+8,30,,2009 Winter
+5,30,,2009 Winter
+30,30,,2009 Winter
+30,30,,2009 Winter
+11,30,,2009 Winter
+6,30,,2009 Winter
+4,30,,2009 Winter
+0,30,,2009 Winter
+1,30,,2009 Winter
+5,30,,2009 Winter
 3 , 113,,2009 Winter
 3 , 59,,2009 Winter
 4 , 47,,2009 Winter
@@ -461,14 +820,45 @@ num_people_enrolled,total_class_size,class_number,term
 11 , 41,,2009 Fall
 13 , 65,,2009 Fall
 16 , 25,,2009 Fall
+0,70,,2009 Fall
 20 , 23,,2009 Fall
 35 , 45,,2009 Fall
 9 , 9,,2009 Fall
+31,50,,2009 Fall
+32,55,,2009 Fall
 67 , 102,,2009 Fall
 20 , 21,,2009 Fall
+21,30,,2009 Fall
+29,50,,2009 Fall
+12,30,,2009 Fall
 49 , 65,,2009 Fall
+43,50,,2009 Fall
+51,110,,2009 Fall
+2,15,,2009 Fall
+3,30,,2009 Fall
 7 , 9,,2009 Fall
+11,30,,2009 Fall
+8,30,,2009 Fall
+14,30,,2009 Fall
 13 , 18,,2009 Fall
+9,30,,2009 Fall
+1,30,,2009 Fall
+14,30,,2009 Fall
+4,30,,2009 Fall
+1,30,,2009 Fall
+0,30,,2009 Fall
+3,30,,2009 Fall
+4,30,,2009 Fall
+9,30,,2009 Fall
+12,20,,2009 Fall
+1,30,,2009 Fall
+2,30,,2009 Fall
+0,30,,2009 Fall
+0,30,,2009 Fall
+3,15,,2009 Fall
+6,30,,2009 Fall
+0,30,,2009 Fall
+11,30,,2009 Fall
 0 , 83,,2009 Fall
 1 , 18,,2009 Fall
 0 , 21,,2009 Fall
@@ -489,11 +879,42 @@ num_people_enrolled,total_class_size,class_number,term
 32 , 131,,2009 Spring
 15 , 99,,2009 Spring
 40 , 49,,2009 Spring
+17,30,,2009 Spring
 56 , 60,,2009 Spring
+10,30,,2009 Spring
 67 , 74,,2009 Spring
+33,65,,2009 Spring
+12,30,,2009 Spring
+23,30,,2009 Spring
+29,30,,2009 Spring
 93 , 131,,2009 Spring
 46 , 60,,2009 Spring
+4,30,,2009 Spring
+17,50,,2009 Spring
+62,100,,2009 Spring
 79 , 99,,2009 Spring
+22,25,,2009 Spring
+18,30,,2009 Spring
+35,40,,2009 Spring
+21,30,,2009 Spring
+41,40,,2009 Spring
+10,30,,2009 Spring
+10,30,,2009 Spring
+23,30,,2009 Spring
+4,30,,2009 Spring
+6,30,,2009 Spring
+23,50,,2009 Spring
+9,30,,2009 Spring
+13,30,,2009 Spring
+18,30,,2009 Spring
+12,30,,2009 Spring
+14,30,,2009 Spring
+8,30,,2009 Spring
+22,30,,2009 Spring
+5,30,,2009 Spring
+9,30,,2009 Spring
+4,30,,2009 Spring
+3,30,,2009 Spring
 3 , 63,,2009 Spring
 5 , 112,,2009 Spring
 2 , 77,,2009 Spring
@@ -516,11 +937,43 @@ num_people_enrolled,total_class_size,class_number,term
 33 , 50,,2008 Winter
 18 , 62,,2008 Winter
 28 , 38,,2008 Winter
+13,30,,2008 Winter
 6 , 38,,2008 Winter
 46 , 50,,2008 Winter
+10,10,,2008 Winter
+55,55,,2008 Winter
+27,55,,2008 Winter
+13,30,,2008 Winter
 41 , 62,,2008 Winter
+5,30,,2008 Winter
 53 , 76,,2008 Winter
+30,30,,2008 Winter
+41,65,,2008 Winter
+42,130,,2008 Winter
+14,30,,2008 Winter
+9,30,,2008 Winter
+51,100,,2008 Winter
+11,30,,2008 Winter
+9,20,,2008 Winter
+30,30,,2008 Winter
 24 , 25,,2008 Winter
+6,30,,2008 Winter
+30,30,,2008 Winter
+0,30,,2008 Winter
+30,30,,2008 Winter
+13,30,,2008 Winter
+15,30,,2008 Winter
+5,30,,2008 Winter
+30,30,,2008 Winter
+26,30,,2008 Winter
+12,30,,2008 Winter
+3,30,,2008 Winter
+2,30,,2008 Winter
+11,30,,2008 Winter
+4,30,,2008 Winter
+1,30,,2008 Winter
+9,30,,2008 Winter
+2,30,,2008 Winter
 0 , 131,,2008 Winter
 1 , 75,,2008 Winter
 3 , 53,,2008 Winter
@@ -547,16 +1000,47 @@ num_people_enrolled,total_class_size,class_number,term
 19 , 52,,2008 Fall
 17 , 42,,2008 Fall
 24 , 34,,2008 Fall
+23,50,,2008 Fall
 21 , 24,,2008 Fall
 29 , 34,,2008 Fall
+42,50,,2008 Fall
+40,55,,2008 Fall
 31 , 55,,2008 Fall
 28 , 32,,2008 Fall
+8,50,,2008 Fall
+13,50,,2008 Fall
+20,50,,2008 Fall
 23 , 42,,2008 Fall
 29 , 29,,2008 Fall
+40,130,,2008 Fall
+9,30,,2008 Fall
+0,15,,2008 Fall
+1,60,,2008 Fall
+4,100,,2008 Fall
+10,30,,2008 Fall
+5,30,,2008 Fall
+7,30,,2008 Fall
+6,30,,2008 Fall
 3 , 14,,2008 Fall
+4,25,,2008 Fall
 2 , 2,,2008 Fall
 6 , 9,,2008 Fall
 0 , 0,,2008 Fall
+0,10,,2008 Fall
+1,30,,2008 Fall
+1,30,,2008 Fall
+2,26,,2008 Fall
+4,30,,2008 Fall
+2,30,,2008 Fall
+6,30,,2008 Fall
+0,30,,2008 Fall
+0,30,,2008 Fall
+2,25,,2008 Fall
+8,15,,2008 Fall
+1,10,,2008 Fall
+0,30,,2008 Fall
+3,50,,2008 Fall
+1,30,,2008 Fall
 1 , 109,,2008 Fall
 0 , 16,,2008 Fall
 0 , 23,,2008 Fall
@@ -579,14 +1063,47 @@ num_people_enrolled,total_class_size,class_number,term
 11 , 66,,2008 Spring
 4 , 41,,2008 Spring
 5 , 12,,2008 Spring
+9,30,,2008 Spring
 39 , 40,,2008 Spring
+14,30,,2008 Spring
+7,50,,2008 Spring
+20,100,,2008 Spring
+58,75,,2008 Spring
+50,50,,2008 Spring
+11,100,,2008 Spring
 49 , 66,,2008 Spring
 22 , 27,,2008 Spring
+7,50,,2008 Spring
+13,80,,2008 Spring
+27,110,,2008 Spring
+25,52,,2008 Spring
 34 , 41,,2008 Spring
+39,60,,2008 Spring
+9,30,,2008 Spring
+3,50,,2008 Spring
+10,50,,2008 Spring
+4,50,,2008 Spring
+0,30,,2008 Spring
 9 , 15,,2008 Spring
+13,30,,2008 Spring
+8,30,,2008 Spring
 3 , 6,,2008 Spring
 8 , 13,,2008 Spring
+9,30,,2008 Spring
+1,5,,2008 Spring
 7 , 13,,2008 Spring
+1,5,,2008 Spring
+2,30,,2008 Spring
+12,30,,2008 Spring
+2,30,,2008 Spring
+4,30,,2008 Spring
+1,30,,2008 Spring
+1,30,,2008 Spring
+1,30,,2008 Spring
+2,30,,2008 Spring
+4,30,,2008 Spring
+1,10,,2008 Spring
+2,30,,2008 Spring
 0 , 15,,2008 Spring
 0 , 30,,2008 Spring
 2 , 12,,2008 Spring
