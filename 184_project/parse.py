@@ -4,7 +4,7 @@ import re
 import pandas as pd
 import csv
 with open('UCSC files.csv', mode = 'w', newline = '') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=['num_people_enrolled', 'total_class_size', 'class_number','term'])
+    writer = csv.DictWriter(csvfile, fieldnames=['num_people_enrolled', 'total_class_size', 'class_number','term', 'professor'])
     writer.writeheader()
 
     seasons = ['FALL', 'SPRING', 'WINTER']
@@ -26,6 +26,7 @@ with open('UCSC files.csv', mode = 'w', newline = '') as csvfile:
                     lec_or_lab = each_body.find('div', {'class': 'col-xs-6 col-sm-6'}).text.split(' ')[1]
                     enrollment_size = enrollment[2].text
                     enrolled = enrollment_size.split(' ')
+                    prof = enrollment[1].text.split(' ')[1]
 
                     class_name = i.a.text;
                     class_name_num = class_name.split(' ')[1]
@@ -34,6 +35,7 @@ with open('UCSC files.csv', mode = 'w', newline = '') as csvfile:
                         'num_people_enrolled' : enrolled[1],
                         'total_class_size' : enrolled[3],
                         'class_number' : class_name_num,
-                        'term' : season + ' 20' +  str(j)
+                        'term' : season + ' 20' +  str(j),
+                        'professor': prof
 						}
                         writer.writerow(class_info)

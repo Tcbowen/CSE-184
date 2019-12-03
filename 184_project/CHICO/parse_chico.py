@@ -6,7 +6,7 @@ import pandas as pd
 import csv
 
 with open('CHICO files.csv', mode = 'w', newline = '') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames = ['num_people_enrolled', 'total_class_size', 'class_number', 'term'])
+    writer = csv.DictWriter(csvfile, fieldnames = ['num_people_enrolled', 'total_class_size', 'class_number', 'term','professor'])
     writer.writeheader()
 
     for i in range(8,20):
@@ -19,7 +19,7 @@ with open('CHICO files.csv', mode = 'w', newline = '') as csvfile:
             else:
                 year = '20' + str(i)
             url = 'http://ems.csuchico.edu/APSS/schedule/' + season + year +'/CSCI.shtml'
-            print(url)
+            #print(url)
             reponse = BeautifulSoup(get(url).text, 'lxml')
             class_block_1 = reponse.find_all('tr', {'class':'classrow'})
             class_block_2 = reponse.find_all('tr', {'class':'classrowalt'})
@@ -28,6 +28,8 @@ with open('CHICO files.csv', mode = 'w', newline = '') as csvfile:
                 class_name = each_class_block.find('td', {'class':'cat_num'}).text
                 capacity = each_class_block.find('td', {'class':'enrtot'}).text
                 enrolled = each_class_block.find('td', {'class':'seatsavail'}).text
+                professor = each_class_block.find('td', {'class':'Instructor'}).text
+                #print(professor)
 
                 class_type = each_class_block.find('td', {'class':'comp'}).text
                 if class_type is not 'ACT':
@@ -35,6 +37,7 @@ with open('CHICO files.csv', mode = 'w', newline = '') as csvfile:
                         'num_people_enrolled' : enrolled,
                         'total_class_size': capacity,
                         'class_number': class_name,
-                        'term': season+year
+                        'term': season+year,
+                        'professor':professor
                     }
                     writer.writerow(class_info)
