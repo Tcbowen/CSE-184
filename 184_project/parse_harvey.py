@@ -13,12 +13,10 @@ with open('Harvey_files.csv', mode = 'w', newline = '') as csvfile:
         for j in range(4,6):
             if season is 'SPRING' or season is 'FALL':
                 loc = 'HARVEY HTML\\' + season + ' ' + str(j) +'.htm'
-                loc = 'HARVEY HTML\\'
-                print(os.listdir(loc))
+
                 url = codecs.open(loc,'r', 'utf-8')
 
-
-                document = BeautifulSoup(url.text, 'html.parser')
+                document = BeautifulSoup(url, 'lxml')
                 body = document.find('div', {'class': 'pContent CS'})
                 panel_body = body.find('tbody', {'class': 'gbody'})
                 each_class = panel_body.find_all('tr')
@@ -26,6 +24,7 @@ with open('Harvey_files.csv', mode = 'w', newline = '') as csvfile:
                 for i in each_class:
                     each_body = i.find_all('td', {'valign': 'top'})
                     class_name = each_body[2].text
+                    print(class_name)
                     #lec_or_lab = each_body.find('div', {'class': 'col-xs-6 col-sm-6'}).text.split(' ')[1]
                     #enrollment_size = enrollment[2].text
                     #enrolled = enrollment_size.split(' ')
