@@ -30,20 +30,11 @@ with open('Pomona_files.csv', mode = 'w', newline = '') as csvfile:
                     if (t % 4) == 0:
                         each_body = i.find_all('td', {'valign': 'top'})
                         class_name = each_body[1].text
-                        print(class_name)
-                        class_size_raw = each_body[3].text
+
+                        professor = each_body[3].li.text
+                        class_size_raw = each_body[4].text
                         num_people_enrolled = class_size_raw.split("/",1)[0]
                         total_class_size = class_size_raw.split("/",1)[1]
-                        prof_raw = each_body[5]
-                        prof_raw1 = prof_raw.find_all('li')
-
-                        professor = []
-                        for i in prof_raw1:
-                            prof = i.text
-                            sub_professor = prof.split("/",1)[0]
-                            professor.append(sub_professor)
-
-
 
                         class_info = {
                         'num_people_enrolled' : num_people_enrolled,
