@@ -4,7 +4,7 @@ import re
 import pandas as pd
 import csv
 import os
-with open('Harvey_files.csv', mode = 'w', newline = '') as csvfile:
+with open('Pomona_files.csv', mode = 'w', newline = '') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=['num_people_enrolled', 'total_class_size', 'class_number','term', 'professor'])
     writer.writeheader()
 
@@ -14,7 +14,7 @@ with open('Harvey_files.csv', mode = 'w', newline = '') as csvfile:
             if (season is 'SPRING' and j > 10) or season is 'FALL':
                 if (j == 6 and season is 'FALL') or (j == 14) or ((j == 13 or j == 17)and season is 'SPRING'):
                     continue
-                loc = 'HARVEY HTML/' + season + ' ' + str(j) +'.htm'
+                loc = 'POMONA HTML/' + season + ' ' + str(j) +'.htm'
                 url = codecs.open(loc,'r', 'utf-8')
 
 
@@ -30,6 +30,7 @@ with open('Harvey_files.csv', mode = 'w', newline = '') as csvfile:
                     if (t % 4) == 0:
                         each_body = i.find_all('td', {'valign': 'top'})
                         class_name = each_body[1].text
+                        print(class_name)
                         class_size_raw = each_body[3].text
                         num_people_enrolled = class_size_raw.split("/",1)[0]
                         total_class_size = class_size_raw.split("/",1)[1]
