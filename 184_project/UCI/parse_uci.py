@@ -5,7 +5,7 @@ import pandas as pd
 import csv
 
 
-with open('UCI files.csv', mode = 'w', newline = '') as csvfile:
+with open('UCI files_new.csv', mode = 'w', newline = '') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames = ['num_people_enrolled', 'total_class_size', 'class_number', 'term','professor'])
     writer.writeheader()
 
